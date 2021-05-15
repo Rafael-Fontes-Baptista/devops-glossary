@@ -6,7 +6,7 @@ export default function Footer() {
     <div className="flex-container">
       <div id="contact" class="contactSection">
         <div className="text-center">
-          <p className="subHeading">Like the BMI app?</p>
+          <p className="subHeading">Like the Devops Glossary app?</p>
           <h2>I'd love to hear from you!</h2>
           <a href="mailTo:rafaelfontesb@gmail.com" class="contactButton">
             GET IN TOUCH!
